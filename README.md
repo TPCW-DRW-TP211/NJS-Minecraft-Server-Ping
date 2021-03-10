@@ -31,7 +31,7 @@ For the compiled binary package:
 - mcsrvping.exe &lt;host&gt; [port]
 - ./mcsrvping &lt;host&gt; [port]
 - Not compatible with MacOS temporarily.
-- The host is MUST REQYIRED, If you don't fill it, The program will refuse to run.
+- The host is MUST REQUIRED, If you don't fill it, The program will refuse to run.
 - The port is optional, If omitted, The default port will be used for communication. (Default Port: *25565*)
 
 For Node.JS Script source code:
