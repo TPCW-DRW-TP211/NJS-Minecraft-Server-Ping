@@ -10,6 +10,7 @@ Get to know me again, My name is TP211, Hello
 
 # =====Project Introduction=====
 This project is a *command line* tool designed to quickly obtain the basic information of the Minecraft Server.
+
 It allows you to get the basic information of the Minecraft Server.
 ### SRV Resolution support is not currently provided!
 
