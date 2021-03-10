@@ -1,8 +1,11 @@
 # NJS-Minecraft-Server-Ping
 Ping Minecraft Server, Get Server Information. (Motd, Players Online Amount, Favicon etc.)
 
+
 Hello? This should be my 8th project that I will continue to develop.
+
 Time flies so fast. I have been open source for many years, But there are few practically useful projects.
+
 Get to know me again, My name is TP211, Hello
 
 # =====Project Introduction=====
