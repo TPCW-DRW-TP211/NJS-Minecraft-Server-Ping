@@ -28,17 +28,17 @@ Developed based on Node.JS module *[minecraft-server-util](https://www.npmjs.com
 # =====Instructions=====
 For the compiled binary package:
 - Only need to be executed in the *Command Prompt*
-- mcsrvping.exe &gt;host&lt; [port]
-- ./mcsrvping &gt;host&lt; [port]
+- mcsrvping.exe &lt;host&gt; [port]
+- ./mcsrvping &lt;host&gt; [port]
 - Not compatible with MacOS temporarily.
 - The host is MUST REQYIRED, If you don't fill it, The program will refuse to run.
 - The port is optional, If omitted, The default port will be used for communication. (Default Port: *25565*)
 
 For Node.JS Script source code:
 - You can use the 'node' command to test the code.
-- node main.js &gt;host&lt; [port]
+- node main.js &lt;host&gt; [port]
 - The precautions are the same as for the binary package.
-- &gt;&lt; is Required, [] is Optional.
+- &lt;&gt; is Required, [] is Optional.
 
 # ===== About Issues=====
 I'm Sorry, Because I don't visit github often, It may take a long time for the submitted Issue to get a response.
